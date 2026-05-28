@@ -42,8 +42,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Hi, I'm Mostafa. This site is my brain-dump.
 
   assets:
     # disableHLJS: true # to disable highlight.js
