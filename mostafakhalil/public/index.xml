@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Project</title>
+    <title>Mostafa Khalil</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Project</description>
+    <description>Recent content on Mostafa Khalil</description>
+    <image>
+      <title>Mostafa Khalil</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 21:53:13 +0000</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 May 2026 10:17:33 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Post</title>
+      <link>http://localhost:1313/post/another-post/</link>
+      <pubDate>Thu, 28 May 2026 10:17:33 +0000</pubDate>
+      <guid>http://localhost:1313/post/another-post/</guid>
+      <description>&lt;p&gt;Another post&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Accidental Complexity</title>
       <link>http://localhost:1313/post/accidental-complexity/</link>
       <pubDate>Wed, 27 May 2026 21:53:13 +0000</pubDate>
       <guid>http://localhost:1313/post/accidental-complexity/</guid>
-      <description>&lt;h1 id=&#34;accidental-complexity&#34;&gt;Accidental Complexity&lt;/h1&gt;
-&lt;p&gt;This is a post about accidental complexity&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is a post about accidental complexity&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,4 @@ draft: false
 title: 'Accidental Complexity'
 ---
 
-# Accidental Complexity
-
 This is a post about accidental complexity
