@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software on Mostafa Khalil</title>
+    <link>http://localhost:37483/tags/software/</link>
+    <description>Recent content in Software on Mostafa Khalil</description>
+    <image>
+      <title>Mostafa Khalil</title>
+      <url>http://localhost:37483/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:37483/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 May 2026 21:53:13 +0000</lastBuildDate>
+    <atom:link href="http://localhost:37483/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accidental Complexity</title>
+      <link>http://localhost:37483/post/accidental-complexity/</link>
+      <pubDate>Wed, 27 May 2026 21:53:13 +0000</pubDate>
+      <guid>http://localhost:37483/post/accidental-complexity/</guid>
+      <description>&lt;p&gt;This is a post about accidental complexity&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
