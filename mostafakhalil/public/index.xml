@@ -6,6 +6,15 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2026 21:53:13 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accidental Complexity</title>
+      <link>http://localhost:1313/post/accidental-complexity/</link>
+      <pubDate>Wed, 27 May 2026 21:53:13 +0000</pubDate>
+      <guid>http://localhost:1313/post/accidental-complexity/</guid>
+      <description>&lt;h1 id=&#34;accidental-complexity&#34;&gt;Accidental Complexity&lt;/h1&gt;
+&lt;p&gt;This is a post about accidental complexity&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
