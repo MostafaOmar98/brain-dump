@@ -1,5 +1,4 @@
-# Testing if CSS works with an intentionally wrong link and relativeURLs= true
-baseURL: "https://intentionallywronglink.com/"
+baseURL: "https://mostafaomar98.github.io/brain-dump/"
 title: Mostafa Khalil
 paginate: 100
 theme: PaperMod
