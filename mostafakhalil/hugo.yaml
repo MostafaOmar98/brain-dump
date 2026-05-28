@@ -1,4 +1,5 @@
-baseURL: "https://examplesite.com/"
+# If baseURL is not correct, CSS seems to be off ig.
+baseURL: "https://mostafaomar98.github.io/brain-dump/"
 title: Mostafa Khalil
 paginate: 100
 theme: PaperMod
