@@ -1,0 +1,6 @@
+# Need a separate production config to have a subdirectory `brain-dump/` within the url
+# This is because Hugo is stupid and adds this subdir everywhere in links.
+# CanonifyURLs hardcodes the url everywhere. in development, it's localhost, but this breaks my Github Codespaces development workflow which depends on port forwarding.
+baseURL: "https://mostafaomar98.github.io/brain-dump/"
+relativeURLs: false
+canonifyURLs: true
