@@ -55,7 +55,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Mostafa Khalil"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -75,14 +75,10 @@ params:
         url: tags
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
     - name: linkedin
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/mostafaomar98/"
+    - name: email
+      url: "mailto:mostafa.omar.m.s@gmail.com"
 
   analytics:
     google:
