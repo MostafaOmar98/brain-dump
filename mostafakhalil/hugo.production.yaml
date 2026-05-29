@@ -4,3 +4,10 @@
 baseURL: "https://mostafaomar98.github.io/brain-dump/"
 relativeURLs: false
 canonifyURLs: true
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /brain-dump/tags/
+      weight: 20
