@@ -2,38 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mostafa Khalil</title>
-    <link>http://localhost:43691/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Mostafa Khalil</description>
     <image>
       <title>Mostafa Khalil</title>
-      <url>http://localhost:43691/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:43691/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 May 2026 10:53:01 +0000</lastBuildDate>
-    <atom:link href="http://localhost:43691/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Third Post</title>
-      <link>http://localhost:43691/post/a-third-post/</link>
+      <link>http://localhost:1313/post/a-third-post/</link>
       <pubDate>Thu, 28 May 2026 10:53:01 +0000</pubDate>
-      <guid>http://localhost:43691/post/a-third-post/</guid>
+      <guid>http://localhost:1313/post/a-third-post/</guid>
       <description></description>
     </item>
     <item>
       <title>Another Post</title>
-      <link>http://localhost:43691/post/another-post/</link>
+      <link>http://localhost:1313/post/another-post/</link>
       <pubDate>Thu, 28 May 2026 10:17:33 +0000</pubDate>
-      <guid>http://localhost:43691/post/another-post/</guid>
+      <guid>http://localhost:1313/post/another-post/</guid>
       <description>&lt;p&gt;Another post&lt;/p&gt;</description>
     </item>
     <item>
       <title>Accidental Complexity</title>
-      <link>http://localhost:43691/post/accidental-complexity/</link>
+      <link>http://localhost:1313/post/accidental-complexity/</link>
       <pubDate>Wed, 27 May 2026 21:53:13 +0000</pubDate>
-      <guid>http://localhost:43691/post/accidental-complexity/</guid>
-      <description>&lt;p&gt;Fred Brooks introduced the terms Essential &amp;amp; Accidental complexity in 1986 in his paper &lt;a href=&#34;https://en.wikipedia.org/wiki/No_Silver_Bullet&#34;&gt;No Silver Bullets&lt;/a&gt;.
-Essential complexity&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/accidental-complexity/</guid>
+      <description>&lt;h3 id=&#34;a-quick-change&#34;&gt;A Quick Change&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;This should be a quick change&amp;rdquo;&lt;/em&gt; - Said the engineer who ended up taking two weeks making the quick change.&lt;/p&gt;
+&lt;p&gt;It is not uncommon for a seemingly benign change - one for which there is a general consensus that it is very easy; maybe too easy to even receive a concrete estimate - to end up taking longer than expected.&lt;/p&gt;
+&lt;p&gt;A single delay can cascade in an entire workstream. Teams have been getting better at dealing with this type of delays though: engineers know how to raise their hand early, and short iterative sprints catch incomplete work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
