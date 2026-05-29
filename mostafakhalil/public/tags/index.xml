@@ -14,10 +14,31 @@
     <lastBuildDate>Wed, 27 May 2026 21:53:13 +0000</lastBuildDate>
     <atom:link href="http://localhost:43691/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Software-Philosophy</title>
+      <link>http://localhost:43691/tags/software-philosophy/</link>
+      <pubDate>Wed, 27 May 2026 21:53:13 +0000</pubDate>
+      <guid>http://localhost:43691/tags/software-philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:43691/tags/productivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43691/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Software</title>
       <link>http://localhost:43691/tags/software/</link>
-      <pubDate>Wed, 27 May 2026 21:53:13 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:43691/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems-Thinking</title>
+      <link>http://localhost:43691/tags/systems-thinking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43691/tags/systems-thinking/</guid>
       <description></description>
     </item>
   </channel>

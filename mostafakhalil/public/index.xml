@@ -32,7 +32,8 @@
       <link>http://localhost:43691/post/accidental-complexity/</link>
       <pubDate>Wed, 27 May 2026 21:53:13 +0000</pubDate>
       <guid>http://localhost:43691/post/accidental-complexity/</guid>
-      <description>&lt;p&gt;This is a post about accidental complexity&lt;/p&gt;</description>
+      <description>&lt;p&gt;Fred Brooks introduced the terms Essential &amp;amp; Accidental complexity in 1986 in his paper &lt;a href=&#34;https://en.wikipedia.org/wiki/No_Silver_Bullet&#34;&gt;No Silver Bullets&lt;/a&gt;.
+Essential complexity&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
