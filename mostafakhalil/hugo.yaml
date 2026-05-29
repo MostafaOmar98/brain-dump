@@ -14,6 +14,10 @@ minify:
   disableXML: true
   minifyOutput: true
 
+services:
+  googleAnalytics:
+    ID: "G-BE0YDNK1KG"
+
 params:
   env: production
   title: Mostafa Khalil
@@ -81,7 +85,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "G-BE0YDNK1KG"
+      SiteVerificationTag: "XYZabc"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
