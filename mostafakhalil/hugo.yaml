@@ -1,5 +1,6 @@
-baseURL: "https://mostafakhalil.local.com/"
-relativeURLs: true
+baseURL: "https://mostafakhalil.eu/"
+relativeURLs: false
+canonifyURLs: true
 
 title: Mostafa Khalil
 paginate: 100

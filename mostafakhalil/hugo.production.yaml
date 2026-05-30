@@ -1,13 +1,2 @@
-# Need a separate production config to have a subdirectory `brain-dump/` within the url
-# This is because Hugo is stupid and adds this subdir everywhere in links.
-# CanonifyURLs hardcodes the url everywhere. in development, it's localhost, but this breaks my Github Codespaces development workflow which depends on port forwarding.
-baseURL: "https://mostafaomar98.github.io/brain-dump/"
-relativeURLs: false
-canonifyURLs: true
-
-menu:
-  main:
-    - identifier: tags
-      name: tags
-      url: /brain-dump/tags/
-      weight: 20
+# Used to need to override some URLs because I had a subdir within the url (e.g., mostafaomar98.github.io/brain-dump/)
+# My domain name is now flat, mostafakhalil.eu, so I don't need that anymore. Still keeping this file for ease of prod override.
