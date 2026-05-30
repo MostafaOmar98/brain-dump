@@ -11,22 +11,8 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 10:53:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 21:53:13 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Third Post</title>
-      <link>http://localhost:1313/post/a-third-post/</link>
-      <pubDate>Thu, 28 May 2026 10:53:01 +0000</pubDate>
-      <guid>http://localhost:1313/post/a-third-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Another Post</title>
-      <link>http://localhost:1313/post/another-post/</link>
-      <pubDate>Thu, 28 May 2026 10:17:33 +0000</pubDate>
-      <guid>http://localhost:1313/post/another-post/</guid>
-      <description>&lt;p&gt;Another post&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Accidental Complexity</title>
       <link>http://localhost:1313/post/accidental-complexity/</link>
