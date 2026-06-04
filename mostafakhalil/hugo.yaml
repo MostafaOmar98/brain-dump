@@ -45,7 +45,15 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Content: Hi, I'm Mostafa. This site is my brain-dump.
+    Content: >
+     Hi, I'm Mostafa. I'm a software engineer, currently at Google working on internal observability tools.
+
+
+     I'm most experienced with distributed systems, performance & reliability engineering, and software delivery. My writing will largely revolve around that.  
+
+
+     I'm also a math and [competitive programming](https://codeforces.com/profile/bekh) enthusiast, though I've faced skill atrophy in recent years; my focus skewed
+     towards system-level problems algorthimic puzzles. I have been recently reading about foundational math, probability, and machine learning to combat that. I like learning things from their first principles, so you might find me writing about that as well.
 
   assets:
     # disableHLJS: true # to disable highlight.js
