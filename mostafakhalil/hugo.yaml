@@ -22,7 +22,7 @@ params:
   title: Mostafa Khalil
   description: "Mostafa Khalil's personal Blog"
   keywords: [Blog, Portfolio, PaperMod]
-  images: ["<link or path of image for opengraph, twitter-cards>"] # TODO: get a pic
+  images: [] # TODO: get a pic
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
