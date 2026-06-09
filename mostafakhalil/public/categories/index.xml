@@ -4,6 +4,11 @@
     <title>categories on Mostafa Khalil</title>
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in categories on Mostafa Khalil</description>
+    <image>
+      <title>Mostafa Khalil</title>
+      <url>http://localhost:1313/static/santorini-ai-generated.png</url>
+      <link>http://localhost:1313/static/santorini-ai-generated.png</link>
+    </image>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
