@@ -24,7 +24,7 @@ params:
   title: Mostafa Khalil
   description: "Mostafa Khalil's personal Blog"
   keywords: [Blog, Portfolio, PaperMod]
-  images: ["/static/images/santorini-ai-generated.png"]
+  images: ["/images/santorini-ai-generated.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
