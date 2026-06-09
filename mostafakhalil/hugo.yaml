@@ -144,4 +144,16 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  # For latex math:
+  goldmark:
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - ['$$', '$$']
+            - ['\[', '\]']
+          inline:
+            - ['$', '$']
+            - ['\(', '\)']
   

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ai-Journey on Mostafa Khalil</title>
+    <link>http://localhost:1313/tags/ai-journey/</link>
+    <description>Recent content in Ai-Journey on Mostafa Khalil</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2026 17:12:35 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai-journey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Probability for Software Engineers: The First Principles</title>
+      <link>http://localhost:1313/post/probability-for-software-engineers-the-first-principles/</link>
+      <pubDate>Tue, 09 Jun 2026 17:12:35 +0000</pubDate>
+      <guid>http://localhost:1313/post/probability-for-software-engineers-the-first-principles/</guid>
+      <description>&lt;p&gt;Probability is one of the most intuitive concepts compared to other fields of mathematics. Humans reason about notions of &lt;em&gt;chance&lt;/em&gt; and &lt;em&gt;uncertainty&lt;/em&gt; in their daily lives. Words like &lt;em&gt;random&lt;/em&gt;, &lt;em&gt;experiment&lt;/em&gt;, &lt;em&gt;outcome&lt;/em&gt;, and even &lt;em&gt;probability&lt;/em&gt; are not uncommon in our natural language. Compare this to something like Calculus: &lt;em&gt;gradient&lt;/em&gt;, &lt;em&gt;derivative&lt;/em&gt;, &lt;em&gt;integrals&lt;/em&gt;, &lt;em&gt;inflection&lt;/em&gt; are not words we use, and are not concepts that we tend to reason about every day.&lt;/p&gt;
+&lt;p&gt;This familiarity makes probability approachable, but confusing. It&amp;rsquo;s very easy to misinterpret formal probability writing. Also, some seemingly intuitive probability concepts may seem convoluted, or the formal language may seem to unnecessarily overcomplicate them. Questions that often arise due to a lack of rigorous understanding include:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
