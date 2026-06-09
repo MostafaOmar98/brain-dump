@@ -17,6 +17,8 @@ services:
   googleAnalytics:
     ID: "G-BE0YDNK1KG"
 
+capitalizeListTitles: false
+
 params:
   env: production
   title: Mostafa Khalil
