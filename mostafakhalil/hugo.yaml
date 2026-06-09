@@ -42,8 +42,8 @@ params:
   comments: false
   hidemeta: false
   hideSummary: true
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
   # home-info mode
   homeInfoParams:

@@ -6,8 +6,8 @@
     <description>Recent content on Mostafa Khalil</description>
     <image>
       <title>Mostafa Khalil</title>
-      <url>http://localhost:1313/static/santorini-ai-generated.png</url>
-      <link>http://localhost:1313/static/santorini-ai-generated.png</link>
+      <url>http://localhost:1313/images/santorini-ai-generated.png</url>
+      <link>http://localhost:1313/images/santorini-ai-generated.png</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
@@ -18,7 +18,8 @@
       <link>http://localhost:1313/post/probability-for-software-engineers-the-first-principles/</link>
       <pubDate>Tue, 09 Jun 2026 17:12:35 +0000</pubDate>
       <guid>http://localhost:1313/post/probability-for-software-engineers-the-first-principles/</guid>
-      <description>&lt;p&gt;Probability is one of the most intuitive concepts compared to other fields of mathematics. Humans reason about notions of &lt;em&gt;chance&lt;/em&gt; and &lt;em&gt;uncertainty&lt;/em&gt; in their daily lives. Words like &lt;em&gt;random&lt;/em&gt;, &lt;em&gt;experiment&lt;/em&gt;, &lt;em&gt;outcome&lt;/em&gt;, and even &lt;em&gt;probability&lt;/em&gt; are not uncommon in our natural language. Compare this to something like Calculus: &lt;em&gt;gradient&lt;/em&gt;, &lt;em&gt;derivative&lt;/em&gt;, &lt;em&gt;integrals&lt;/em&gt;, &lt;em&gt;inflection&lt;/em&gt; are not words we use, and are not concepts that we tend to reason about every day.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;Probability is one of the most intuitive concepts compared to other fields of mathematics. Humans reason about notions of &lt;em&gt;chance&lt;/em&gt; and &lt;em&gt;uncertainty&lt;/em&gt; in their daily lives. Words like &lt;em&gt;random&lt;/em&gt;, &lt;em&gt;experiment&lt;/em&gt;, &lt;em&gt;outcome&lt;/em&gt;, and even &lt;em&gt;probability&lt;/em&gt; are not uncommon in our natural language. Compare this to something like Calculus: &lt;em&gt;gradient&lt;/em&gt;, &lt;em&gt;derivative&lt;/em&gt;, &lt;em&gt;integrals&lt;/em&gt;, &lt;em&gt;inflection&lt;/em&gt; are not words we use, and are not concepts that we tend to reason about every day.&lt;/p&gt;
 &lt;p&gt;This familiarity makes probability approachable, but confusing. It&amp;rsquo;s very easy to misinterpret formal probability writing. Also, some seemingly intuitive probability concepts may seem convoluted, or the formal language may seem to unnecessarily overcomplicate them. Questions that often arise due to a lack of rigorous understanding include:&lt;/p&gt;</description>
     </item>
     <item>
@@ -26,7 +27,7 @@
       <link>http://localhost:1313/post/accidental-complexity/</link>
       <pubDate>Wed, 27 May 2026 21:53:13 +0000</pubDate>
       <guid>http://localhost:1313/post/accidental-complexity/</guid>
-      <description>&lt;h3 id=&#34;a-quick-change&#34;&gt;A Quick Change&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;a-quick-change&#34;&gt;A Quick Change&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;This should be a quick change&amp;rdquo;&lt;/em&gt; - Said the engineer who ended up taking two weeks making the quick change.&lt;/p&gt;
 &lt;p&gt;It is not uncommon for a seemingly benign change - one for which there is a general consensus that it is very easy; maybe too easy to even receive a concrete estimate - to end up taking longer than expected.&lt;/p&gt;
 &lt;p&gt;A single delay can cascade in an entire workstream. Teams have been getting better at dealing with these type of delays though: engineers know how to raise their hand early, and short iterative sprints catch incomplete work.&lt;/p&gt;</description>

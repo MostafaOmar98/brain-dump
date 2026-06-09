@@ -6,8 +6,8 @@
     <description>Recent content in software-philosophy on Mostafa Khalil</description>
     <image>
       <title>Mostafa Khalil</title>
-      <url>http://localhost:1313/static/santorini-ai-generated.png</url>
-      <link>http://localhost:1313/static/santorini-ai-generated.png</link>
+      <url>http://localhost:1313/images/santorini-ai-generated.png</url>
+      <link>http://localhost:1313/images/santorini-ai-generated.png</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
@@ -18,7 +18,7 @@
       <link>http://localhost:1313/post/accidental-complexity/</link>
       <pubDate>Wed, 27 May 2026 21:53:13 +0000</pubDate>
       <guid>http://localhost:1313/post/accidental-complexity/</guid>
-      <description>&lt;h3 id=&#34;a-quick-change&#34;&gt;A Quick Change&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;a-quick-change&#34;&gt;A Quick Change&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;This should be a quick change&amp;rdquo;&lt;/em&gt; - Said the engineer who ended up taking two weeks making the quick change.&lt;/p&gt;
 &lt;p&gt;It is not uncommon for a seemingly benign change - one for which there is a general consensus that it is very easy; maybe too easy to even receive a concrete estimate - to end up taking longer than expected.&lt;/p&gt;
 &lt;p&gt;A single delay can cascade in an entire workstream. Teams have been getting better at dealing with these type of delays though: engineers know how to raise their hand early, and short iterative sprints catch incomplete work.&lt;/p&gt;</description>

@@ -6,6 +6,8 @@ tags: ['probability', 'ai-journey']
 math: true
 ---
 
+## Intro
+
 Probability is one of the most intuitive concepts compared to other fields of mathematics. Humans reason about notions of *chance* and *uncertainty* in their daily lives. Words like *random*, *experiment*, *outcome*, and even *probability* are not uncommon in our natural language. Compare this to something like Calculus: *gradient*, *derivative*, *integrals*, *inflection* are not words we use, and are not concepts that we tend to reason about every day.
 
 This familiarity makes probability approachable, but confusing. It's very easy to misinterpret formal probability writing. Also, some seemingly intuitive probability concepts may seem convoluted, or the formal language may seem to unnecessarily overcomplicate them. Questions that often arise due to a lack of rigorous understanding include:
