@@ -60,15 +60,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: /images/favicon-ai-generated.png
-    favicon16x16: /images/favicon-ai-generated.png
-    favicon32x32: /images/favicon-ai-generated.png
-    apple_touch_icon: /images/favicon-ai-generated.png
-    safari_pinned_tab: /images/favicon-ai-generated.png
+    favicon: /images/favicon-black-hair-ai-generated.png
+    favicon16x16: /images/favicon-black-hair-ai-generated.png
+    favicon32x32: /images/favicon-black-hair-ai-generated.png
+    apple_touch_icon: /images/favicon-black-hair-ai-generated.png
+    safari_pinned_tab: /images/favicon-black-hair-ai-generated.png
 
   label:
     text: "Mostafa Khalil"
-    icon: /images/favicon-ai-generated.png
+    icon: /images/favicon-black-hair-ai-generated.png
     iconHeight: 35
 
   # profile-mode
