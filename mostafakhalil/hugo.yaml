@@ -68,7 +68,8 @@ params:
 
   label:
     text: "Mostafa Khalil"
-    icon: /images/favicon-light.png
+    iconLight: /images/favicon-light.png
+    iconDark: /images/favicon-dark.png
     iconHeight: 35
 
   # profile-mode
