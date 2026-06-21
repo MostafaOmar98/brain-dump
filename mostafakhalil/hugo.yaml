@@ -22,7 +22,7 @@ capitalizeListTitles: false
 params:
   env: production
   title: Mostafa Khalil
-  description: "lost a bet"
+  description: "who?"
   keywords: [Blog, Portfolio, PaperMod]
   images: ["/images/santorini-ai-generated.png"]
   DateFormat: "January 2, 2006"
