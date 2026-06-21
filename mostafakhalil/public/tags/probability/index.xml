@@ -11,10 +11,19 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 17:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 13:52:23 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/probability/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Probability for Software Engineers: The First Principles</title>
+      <title>A pretentious way to describe a discrete random variable</title>
+      <link>http://localhost:1313/post/a-pretentious-way-to-describe-a-discrete-random-variable/</link>
+      <pubDate>Sun, 21 Jun 2026 13:52:23 +0200</pubDate>
+      <guid>http://localhost:1313/post/a-pretentious-way-to-describe-a-discrete-random-variable/</guid>
+      <description>&lt;p&gt;I was reading &lt;a href=&#34;https://arxiv.org/abs/1709.02840?fbclid=IwY2xjawRtT7dleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeslp8XKxoQvZ44HU266uVgYKUj0CTClLPGbBAq_hAeq81VaPsEDPFVkDJ_yg_aem_rZru1T0GKO7oSLnoTyU-zA&#34;&gt;&lt;em&gt;A Brief Introduction to Machine Learning for Engineers&lt;/em&gt;&lt;/a&gt; because I wanted to build some rigor around Machine Learning theory. By the second chapter, I had already realized how much skill atrophy I&amp;rsquo;m facing. My math muscles are&amp;hellip; a bit rusty I&amp;rsquo;d say.&lt;/p&gt;
+&lt;p&gt;On page 18 there was this beautiful formula that made me feel dumb. It describes a conditional probability distribution for a continuous random variable $t$.&lt;/p&gt;
+$$t|x = x ∼ 0.8δ(t − x) + 0.2δ(t + x)$$&lt;p&gt;I did not know what that $δ$ meant. I was introduced to the &lt;a href=&#34;https://en.wikipedia.org/wiki/Dirac_delta_function&#34;&gt;Dirac delta function&lt;/a&gt;. It has a very peculiar definition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Probability for software engineers: the first principles</title>
       <link>http://localhost:1313/post/probability-for-software-engineers-the-first-principles/</link>
       <pubDate>Tue, 09 Jun 2026 17:12:35 +0000</pubDate>
       <guid>http://localhost:1313/post/probability-for-software-engineers-the-first-principles/</guid>

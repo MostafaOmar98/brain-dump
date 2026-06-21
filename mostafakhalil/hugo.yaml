@@ -19,6 +19,11 @@ services:
 
 capitalizeListTitles: false
 
+disableKinds:
+  - "taxonomy"
+  - "term"
+  - "taxonomyTerm"
+
 params:
   env: production
   title: Mostafa Khalil
