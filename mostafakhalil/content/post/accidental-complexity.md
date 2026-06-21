@@ -1,25 +1,25 @@
 ---
 date: '2026-05-27T21:53:13Z'
 draft: false
-title: 'Accidental Complexity'
+title: 'Accidental complexity'
 tags: ["software-philosophy"]
 ---
 
-## A Quick Change
+## A quick change
 
 _"This should be a quick change"_ - Said the engineer who ended up taking two weeks making the quick change.
 
 It is not uncommon for a seemingly benign change - one for which there is a general consensus that it is very easy; maybe too easy to even receive a concrete estimate - to end up taking longer than expected.
 
-A single delay can cascade in an entire workstream. Teams have been getting better at dealing with these type of delays though: engineers know how to raise their hand early, and short iterative sprints catch incomplete work.
+A single delay can cascade in an entire workstream. Teams have been getting better at dealing with these type of delays though: Engineers know how to raise their hand early, and short iterative sprints catch incomplete work.
 
   
 
-However, if a team isn't mature enough, a delayed task - even when handled with grace - can leave a psychological dent. The assigned engineer questions their own capability. A manager or a stakeholder views that engineer as less reliable. A few of these and the team starts showing signs of subtle passive-aggressiveness: engineers pad and inflate their estimates, and management responds by micromanaging every update.
+However, if a team isn't mature enough, a delayed task - even when handled with grace - can leave a psychological dent. The assigned engineer questions their own capability. A manager or a stakeholder views that engineer as less reliable. A few of these and the team starts showing signs of subtle passive-aggressiveness: Engineers pad and inflate their estimates, and management responds by micromanaging every update.
 
-## But, Where is the delay coming from?
+## But, where is the delay coming from?
 
-One phenomenon that leads to such surprises is: uncaptured _**Accidental Complexity**_. Fred Brooks made the distinction between _Essential_ & _Accidental_ Complexity in 1986 in his paper [No Silver Bullet](https://en.wikipedia.org/wiki/No_Silver_Bullet). In short, _Essential Complexity_ is the irreducible work originating from the task at hand. There is no way to reduce or remove this complexity, you can only shift it around. _Accidental Complexity_ is all the extra work that originates from the tooling, and abstractions we work with. Brooks goes on in the paper to argue about relative productivity gains in Software Development, but that's out of the interest of this article.
+One phenomenon that leads to such surprises is: Uncaptured _**Accidental Complexity**_. Fred Brooks made the distinction between _Essential_ & _Accidental_ Complexity in 1986 in his paper [No Silver Bullet](https://en.wikipedia.org/wiki/No_Silver_Bullet). In short, _Essential Complexity_ is the irreducible work originating from the task at hand. There is no way to reduce or remove this complexity, you can only shift it around. _Accidental Complexity_ is all the extra work that originates from the tooling, and abstractions we work with. Brooks goes on in the paper to argue about relative productivity gains in Software Development, but that's out of the interest of this article.
 
 Frequently, this unforeseen delay is an artifact of a system (or lack of one thereof) that works against its users. A simple change ends up breaking 10 other places, spiralling into a need for a refactor. Or a dependent API missing a very obvious operation that should have been provided.
 
@@ -35,7 +35,7 @@ There are often implicit requirements that are not captured, maybe because they 
 
 _[*] Irony: Used the most generic theme in my personal site._
 
-### Investigation and Research
+### Investigation and research
 
 Prototyping to check if something is feasible before commitment, or load testing a server to see if it can handle projected load for a client onboarding are not side tasks. These require commitment to be done right, and are good candidates for strict timeboxing to avoid rabbitholing. Accounting for them as part of the estimation padding is a setup for frustration. You will have to explain why you have zero progress for the first X% of the estimation, or how the progress jumped to 100% all of a sudden. Capture these explicitly as well.
 

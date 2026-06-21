@@ -14,16 +14,16 @@
     <lastBuildDate>Sun, 21 Jun 2026 13:52:23 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A Pretentious Way to Describe a Discrete Random Variable</title>
+      <title>A pretentious way to describe a discrete random variable</title>
       <link>http://localhost:1313/post/a-pretentious-way-to-describe-a-discrete-random-variable/</link>
       <pubDate>Sun, 21 Jun 2026 13:52:23 +0200</pubDate>
       <guid>http://localhost:1313/post/a-pretentious-way-to-describe-a-discrete-random-variable/</guid>
-      <description>&lt;p&gt;I was reading &lt;a href=&#34;https://arxiv.org/abs/1709.02840?fbclid=IwY2xjawRtT7dleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeslp8XKxoQvZ44HU266uVgYKUj0CTClLPGbBAq_hAeq81VaPsEDPFVkDJ_yg_aem_rZru1T0GKO7oSLnoTyU-zA&#34;&gt;&lt;em&gt;A Brief Introduction to Machine Learning for Engineers&lt;/em&gt;&lt;/a&gt; because I wanted to build some rigor around Machine Learning theory. By the second chapter, I already realized how much skill atrophy I&amp;rsquo;m facing. My math muscles are&amp;hellip; a bit rusty I&amp;rsquo;d say.&lt;/p&gt;
+      <description>&lt;p&gt;I was reading &lt;a href=&#34;https://arxiv.org/abs/1709.02840?fbclid=IwY2xjawRtT7dleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeslp8XKxoQvZ44HU266uVgYKUj0CTClLPGbBAq_hAeq81VaPsEDPFVkDJ_yg_aem_rZru1T0GKO7oSLnoTyU-zA&#34;&gt;&lt;em&gt;A Brief Introduction to Machine Learning for Engineers&lt;/em&gt;&lt;/a&gt; because I wanted to build some rigor around Machine Learning theory. By the second chapter, I had already realized how much skill atrophy I&amp;rsquo;m facing. My math muscles are&amp;hellip; a bit rusty I&amp;rsquo;d say.&lt;/p&gt;
 &lt;p&gt;On page 18 there was this beautiful formula that made me feel dumb. It describes a conditional probability distribution for a continuous random variable $t$.&lt;/p&gt;
 $$t|x = x ∼ 0.8δ(t − x) + 0.2δ(t + x)$$&lt;p&gt;I did not know what that $δ$ meant. I was introduced to the &lt;a href=&#34;https://en.wikipedia.org/wiki/Dirac_delta_function&#34;&gt;Dirac delta function&lt;/a&gt;. It has a very peculiar definition.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Probability for Software Engineers: The First Principles</title>
+      <title>Probability for software engineers: the first principles</title>
       <link>http://localhost:1313/post/probability-for-software-engineers-the-first-principles/</link>
       <pubDate>Tue, 09 Jun 2026 17:12:35 +0000</pubDate>
       <guid>http://localhost:1313/post/probability-for-software-engineers-the-first-principles/</guid>
@@ -32,14 +32,14 @@ $$t|x = x ∼ 0.8δ(t − x) + 0.2δ(t + x)$$&lt;p&gt;I did not know what that $
 &lt;p&gt;This familiarity makes probability approachable, but confusing. It&amp;rsquo;s very easy to misinterpret formal probability writing. Also, some seemingly intuitive probability concepts may seem convoluted, or the formal language may seem to unnecessarily overcomplicate them. Questions that often arise due to a lack of rigorous understanding include:&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Accidental Complexity</title>
+      <title>Accidental complexity</title>
       <link>http://localhost:1313/post/accidental-complexity/</link>
       <pubDate>Wed, 27 May 2026 21:53:13 +0000</pubDate>
       <guid>http://localhost:1313/post/accidental-complexity/</guid>
-      <description>&lt;h2 id=&#34;a-quick-change&#34;&gt;A Quick Change&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;a-quick-change&#34;&gt;A quick change&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;This should be a quick change&amp;rdquo;&lt;/em&gt; - Said the engineer who ended up taking two weeks making the quick change.&lt;/p&gt;
 &lt;p&gt;It is not uncommon for a seemingly benign change - one for which there is a general consensus that it is very easy; maybe too easy to even receive a concrete estimate - to end up taking longer than expected.&lt;/p&gt;
-&lt;p&gt;A single delay can cascade in an entire workstream. Teams have been getting better at dealing with these type of delays though: engineers know how to raise their hand early, and short iterative sprints catch incomplete work.&lt;/p&gt;</description>
+&lt;p&gt;A single delay can cascade in an entire workstream. Teams have been getting better at dealing with these type of delays though: Engineers know how to raise their hand early, and short iterative sprints catch incomplete work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
 date: '2026-06-09T17:12:35Z'
 draft: false
-title: 'Probability for Software Engineers: The First Principles'
+title: 'Probability for software engineers: the first principles'
 tags: ['probability', 'ai-journey']
 math: true
 ---
@@ -20,7 +20,7 @@ This familiarity makes probability approachable, but confusing. It's very easy t
 I always followed an intuitive, hand-wavy approach to probability. It served me well for a long time. I was able to breeze through my undergrad courses. I have recently been going back to learning machine learning from first principles as I dive deeper into AI. The lack of rigor has limited my ability to understand fundamental algorithms, so I went back to probability's first principles.
 
 This article will be the first in what will likely be a series where I explain the fundamentals of probability. I will present my mental model of the first principles, bringing the intuition closer to the formal definitions. I spent much more time coding than dealing with formal mathematics throughout my education, so I will express the mental model through code where useful. I will write in the language that has my favourite type system, TypeScript. Knowledge of TypeScript is not a prerequisite since I will explain the unfamiliar parts. Basic familiarity with probability concepts and code is useful, though.
-## The Experiment: Where it all starts
+## The experiment: where it all starts
 
 At the very heart of the study of probability is the concept of an *experiment*, also known as a *random process*. It is a process that we can run to observe its output. Each run of this experiment/process is called a *trial*. The observed output of each trial is called an *outcome* (or an *observation*). This definition is very generic and is applicable to any kind of observable process. For example:
 
@@ -99,7 +99,7 @@ Up until now, we haven't really talked about probabilities! We just introduced a
 
 *\* We haven't formally introduced what a distribution is yet, but an intuitive understanding is sufficient for now.*
 
-## Probability Space: The Formal Model
+## Probability space: the formal model
 
 The word *probability* doesn't have a strict mathematical meaning on its own. Probability starts to make sense when it's referenced as a part of a **probability space**.
 
@@ -115,7 +115,7 @@ The probability space is a mathematical model for an experiment. Let's look at t
 
 Let's untangle it one by one:
 
-### The Sample Space
+### The sample space
 
 Hopefully, the definition reads clearly: it is the set of all possible outcomes of a random process. In TypeScript, that would be modeled like:
 ```typescript
@@ -128,7 +128,7 @@ In TypeScript, you can make types out of other types. Here we are essentially al
 
 **Important takeaway:** The sample space is heavily constrained by the physical reality of the experiment at hand, leaving less room for arbitrary modeling choices than other elements. i.e., we don't really get to choose what the possible outcomes of an experiment are without influencing the experiment's internals or constraining it some way or another.
 
-### The Event Space
+### The event space
 
 It can be confusing to intuitively differentiate between an *event* and an *outcome*. An outcome is a single result of a trial, a single instance of the sample space.
 
@@ -208,7 +208,7 @@ console.log(has_event_happened<PersonHeightOutcome>(oneSeventyCMOrHigher, height
 console.log(has_event_happened<PersonHeightOutcome>(betweenOneFiftyAndOneSeventy, heightOutcome));
 ```
 
-### The Probability Measure
+### The probability measure
 
 We finally speak about probability! The familiar word probability refers to the output of a function called the *probability measure*, aka *probability function*. The probability measure only makes sense within a probability space, which in turn only makes sense when defined against an experiment - hence why it took ~2000 words before we could start defining *probability*.
 
@@ -267,7 +267,7 @@ const dieRollProbabilitySpace: ProbabilitySpace<DieRollOutcome> = {
 };
 ```
 
-### Mathematical Constraints
+### Mathematical constraints
 
 There are some intuitive constraints for a probability space to be a valid mathematical model of an experiment. In formal probability theory, For example:
 1. **Non-negativity:** You cannot have a negative chance of something happening. The lowest possible chance is exactly 0.

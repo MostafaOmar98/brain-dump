@@ -1,6 +1,6 @@
 ---
 date: '2026-06-21T13:52:23+02:00'
-title: 'A Pretentious Way to Describe a Discrete Random Variable'
+title: 'A pretentious way to describe a discrete random variable'
 math: true
 tags: ['probability', 'ai-journey']
 ---
