@@ -5,7 +5,7 @@ math: true
 tags: ['probability', 'ai-journey']
 ---
 
-I was reading [*A Brief Introduction to Machine Learning for Engineers*](https://arxiv.org/abs/1709.02840?fbclid=IwY2xjawRtT7dleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeslp8XKxoQvZ44HU266uVgYKUj0CTClLPGbBAq_hAeq81VaPsEDPFVkDJ_yg_aem_rZru1T0GKO7oSLnoTyU-zA) because I wanted to build some rigor around Machine Learning theory. By the second chapter, I already realized how much skill atrophy I'm facing. My math muscles are... a bit rusty I'd say.
+I was reading [*A Brief Introduction to Machine Learning for Engineers*](https://arxiv.org/abs/1709.02840?fbclid=IwY2xjawRtT7dleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeslp8XKxoQvZ44HU266uVgYKUj0CTClLPGbBAq_hAeq81VaPsEDPFVkDJ_yg_aem_rZru1T0GKO7oSLnoTyU-zA) because I wanted to build some rigor around Machine Learning theory. By the second chapter, I had already realized how much skill atrophy I'm facing. My math muscles are... a bit rusty I'd say.
 
 On page 18 there was this beautiful formula that made me feel dumb. It describes a conditional probability distribution for a continuous random variable $t$.
 
