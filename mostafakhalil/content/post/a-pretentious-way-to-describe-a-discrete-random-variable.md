@@ -11,7 +11,9 @@ On page 18 there was this beautiful formula that made me feel dumb. It describes
 
 $$t|x = x ∼ 0.8δ(t − x) + 0.2δ(t + x)$$
 
-I did not know what that $δ$ meant. I was introduced to the [Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta_function). It has a very peculiar definition.
+> The notation reads: The conditional distribution of random variable $t$ given random variable $x$ is defined by the formula $0.8δ(t − x) + 0.2δ(t + x)$
+
+I did not know what that $δ$ meant. I was introduced to the [Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta_function) for the first time. It has a very peculiar definition.
 
 > The Dirac delta function, $\delta(x)$, is formally defined by two fundamental properties:
 >
