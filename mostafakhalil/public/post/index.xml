@@ -11,8 +11,32 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 13:52:23 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 12:57:06 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oh my glyph</title>
+      <link>http://localhost:1313/post/oh-my-glyph/</link>
+      <pubDate>Sat, 25 Jul 2026 12:57:06 +0200</pubDate>
+      <guid>http://localhost:1313/post/oh-my-glyph/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;Can you tell what will be printed in each of these Golang print statements without running them?&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-golang&#34; data-lang=&#34;golang&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;	&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;fmt&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;Println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;-- Exhaling Face Emoji --&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;fmt&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;Println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;In Quotes: 😮‍💨&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;fmt&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;Println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;`In Backticks: 😮‍💨`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;fmt&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;Println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Unicode In Quotes: \U0001f62e\u200d\U0001f4a8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;fmt&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;Println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Unicode Double-Escaped: \\U0001f62e\\u200d\\U0001f4a8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;fmt&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;Println&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;`Unicode In Backticks: \U0001f62e\u200d\U0001f4a8`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Here&amp;rsquo;s what they print on the &lt;a href=&#34;https://go.dev/play/p/-S9cq23ad55&#34;&gt;Go Playground&lt;/a&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;-- Exhaling Face Emoji --
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;In Quotes: 😮‍💨
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;In Backticks: 😮‍💨
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Unicode In Quotes: 😮‍💨
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Unicode Double-Escaped: \U0001f62e\u200d\U0001f4a8
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Unicode In Backticks: \U0001f62e\u200d\U0001f4a8
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;If you were able to tell, you can stop reading now! If not, let&amp;rsquo;s dig deeper into the plumbing a &lt;em&gt;glyph&lt;/em&gt; goes through before getting rendered on a screen.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A pretentious way to describe a discrete random variable</title>
       <link>http://localhost:1313/post/a-pretentious-way-to-describe-a-discrete-random-variable/</link>
@@ -21,7 +45,7 @@
       <description>&lt;p&gt;I was reading &lt;a href=&#34;https://arxiv.org/abs/1709.02840?fbclid=IwY2xjawRtT7dleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeslp8XKxoQvZ44HU266uVgYKUj0CTClLPGbBAq_hAeq81VaPsEDPFVkDJ_yg_aem_rZru1T0GKO7oSLnoTyU-zA&#34;&gt;&lt;em&gt;A Brief Introduction to Machine Learning for Engineers&lt;/em&gt;&lt;/a&gt; because I wanted to build some rigor around Machine Learning theory. By the second chapter, I had already realized how much skill atrophy I&amp;rsquo;m facing. My math muscles are&amp;hellip; a bit rusty I&amp;rsquo;d say.&lt;/p&gt;
 &lt;p&gt;On page 18 there was this beautiful formula that made me feel dumb. It describes a conditional probability distribution for a continuous random variable $t$.&lt;/p&gt;
 $$t|x = x ∼ 0.8δ(t − x) + 0.2δ(t + x)$$&lt;blockquote&gt;
-&lt;p&gt;The notation reads: The conditional probability for random variable $t$ when random variable $x = x$ is distributed according to the probability distribution $0.8δ(t − x) + 0.2δ(t + x)$&lt;/p&gt;</description>
+&lt;p&gt;The notation reads: The conditional distribution of random variable $t$ given random variable $x$ is defined by the formula $0.8δ(t − x) + 0.2δ(t + x)$&lt;/p&gt;</description>
     </item>
     <item>
       <title>Probability for software engineers: the first principles</title>
