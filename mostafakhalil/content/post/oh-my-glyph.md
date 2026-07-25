@@ -9,12 +9,12 @@ title: 'Oh my glyph'
 Can you tell what will be printed in each of these Golang print statements without running them?
 
 ```golang
-	fmt.Println("-- Exhaling Face Emoji --")
-   fmt.Println("In Quotes: 😮‍💨")
-   fmt.Println(`In Backticks: 😮‍💨`)
-   fmt.Println("Unicode In Quotes: \U0001f62e\u200d\U0001f4a8")
-   fmt.Println("Unicode Double-Escaped: \\U0001f62e\\u200d\\U0001f4a8")
-   fmt.Println(`Unicode In Backticks: \U0001f62e\u200d\U0001f4a8`)
+  fmt.Println("-- Exhaling Face Emoji --")
+  fmt.Println("In Quotes: 😮‍💨")
+  fmt.Println(`In Backticks: 😮‍💨`)
+  fmt.Println("Unicode In Quotes: \U0001f62e\u200d\U0001f4a8")
+  fmt.Println("Unicode Double-Escaped: \\U0001f62e\\u200d\\U0001f4a8")
+  fmt.Println(`Unicode In Backticks: \U0001f62e\u200d\U0001f4a8`)
 ```
 
 {{<details summary = "See Answer">}}
