@@ -1,6 +1,7 @@
 ---
 date: '2026-11-26T03:33:28+01:00'
 title: 'Slop Budget'
+tags: ["software-philosophy"]
 ---
 
 ![](/images/posts/slop-budget/xkcd-ai.jpg)
