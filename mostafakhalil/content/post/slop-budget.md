@@ -26,7 +26,7 @@ The quality spectrum is now wider. People are more susceptible to producing wors
 
 I'm particularly interested in one concept that Google SRE introduced: the **[Error Budget](https://sre.google/sre-book/embracing-risk/)**. Google figured out long ago that building 100% reliable systems has a cost, and this cost is simply not worth paying all the time. Instead, they define a target for how reliable a system should be. That target differs from one product to another and is treated as a formal contract between developers working on product features and SREs trying to keep the system up and running.
 
-The Error Budget is the compass that tells the team whether to push more features faster or to slow down and invest more in reliability. If your target is 99% availability each month and on the 25th you are at 99.999%, go ahead and push that feature quicker, you have a budget of 0.999% to burn while still hitting your requirements.
+The Error Budget is the compass that tells the team whether to push more features faster or to slow down and invest more in reliability. If your monthly target is 99% availability (~7.2 hours of downtime in a 30-day month) and you are sitting at 99.999% on day 25, you have spent almost none of your budget, so you can go ahead and push that feature faster!
 
 I see slop in the same way. Depending on the target system, the people I'm working with, and the historical consequences of my actions, I either increase or decrease my due diligence in reviewing the AI outputs accordingly.
 
