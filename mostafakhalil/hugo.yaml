@@ -55,6 +55,7 @@ params:
     Content: >
      Hi, I'm Mostafa, a software engineer at Google building observability tools for humans and agents alike. You will find me write about distributed systems, software delivery, and math.
 
+     Thoughts are my own.
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
