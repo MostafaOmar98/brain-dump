@@ -53,14 +53,7 @@ params:
   # home-info mode
   homeInfoParams:
     Content: >
-     Hi, I'm Mostafa. I'm a software engineer, currently at Google working on internal observability tools.
-
-
-     I'm most experienced with distributed systems, performance & reliability engineering, and software delivery. My writing will largely revolve around that.  
-
-
-     I'm also a math and [competitive programming](https://codeforces.com/profile/bekh) enthusiast. I like learning things from their first principles.
-     I read about foundational math, probability, and AI, so you will find me writing about that as well.
+     Hi, I'm Mostafa, a software engineer at Google building observability tools for humans and agents alike. You will find me write about distributed systems, software delivery, and math.
 
   assets:
     # disableHLJS: true # to disable highlight.js
