@@ -18,9 +18,10 @@
       <link>http://localhost:1313/post/slop-budget/</link>
       <pubDate>Thu, 26 Nov 2026 03:33:28 +0100</pubDate>
       <guid>http://localhost:1313/post/slop-budget/</guid>
-      <description>&lt;h2 id=&#34;cavemen-against-meat-proxies&#34;&gt;Cavemen Against Meat Proxies&lt;/h2&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/posts/slop-budget/xkcd-ai.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cavemen-against-meat-proxies&#34;&gt;Cavemen Against Meat Proxies&lt;/h2&gt;
 &lt;p&gt;When it comes to sentiment around AI-assisted development, people are split between two factions pointing pitchforks at each other.&lt;/p&gt;
-&lt;p&gt;Some firmly believe that code is now obsolete, cheap to produce, and no longer worth a human looking at. We should completely shift our efforts into verification methods at a higher level of abstraction rather than reviewing code. This faction usually compares code produced by AI to assembly or machine code produced by a compiler, arguing that we trust the compiler enough not to read the machine code.&lt;/p&gt;</description>
+&lt;p&gt;Some firmly believe that code is now obsolete, cheap to produce, and no longer worth a human looking at. We should completely shift our efforts into verification methods at a higher level of abstraction instead of manually reviewing code. This faction usually compares code produced by AI to assembly or machine code produced by a compiler, arguing that we trust the compiler enough not to read the machine code.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oh my glyph</title>

@@ -2,6 +2,9 @@
 date: '2026-11-26T03:33:28+01:00'
 title: 'Slop Budget'
 ---
+
+![](/images/posts/slop-budget/xkcd-ai.jpg)
+
 ## Cavemen Against Meat Proxies
 
 When it comes to sentiment around AI-assisted development, people are split between two factions pointing pitchforks at each other.
