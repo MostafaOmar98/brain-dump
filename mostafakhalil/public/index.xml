@@ -18,10 +18,9 @@
       <link>http://localhost:1313/post/slop-budget/</link>
       <pubDate>Thu, 26 Nov 2026 03:33:28 +0100</pubDate>
       <guid>http://localhost:1313/post/slop-budget/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/posts/slop-budget/xkcd-ai.jpg&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/posts/slop-budget/send-me-slop.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;cavemen-against-meat-proxies&#34;&gt;Cavemen Against Meat Proxies&lt;/h2&gt;
-&lt;p&gt;When it comes to sentiment around AI-assisted development, people are split between two factions pointing pitchforks at each other.&lt;/p&gt;
-&lt;p&gt;Some firmly believe that code is now obsolete, cheap to produce, and no longer worth a human looking at. We should completely shift our efforts into verification methods at a higher level of abstraction instead of manually reviewing code. This faction usually compares code produced by AI to assembly or machine code produced by a compiler, arguing that we trust the compiler enough not to read the machine code.&lt;/p&gt;</description>
+&lt;p&gt;I find the sentiment split around AI usage in work more personal than technical. Two factions are pointing pitchforks at each other. One thinks the other is a bunch of unproductive cavemen still living in the Stone Age, while the presumed cavemen think the other is a bunch of &lt;a href=&#34;https://meatproxy.me/test&#34;&gt;meat proxies&lt;/a&gt; who deliver nothing but &lt;em&gt;slop&lt;/em&gt;. The reason it feels personal is that I see both factions arguing in absolutes. They treat &lt;em&gt;quality&lt;/em&gt; and &lt;em&gt;velocity&lt;/em&gt; as binary, something you either have or you don&amp;rsquo;t, rather than a spectrum where you should consciously choose what to aim for. That target depends on many technical and economic factors. It can also change from one product to another, or even over time for the same product.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oh my glyph</title>
