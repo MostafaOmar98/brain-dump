@@ -29,7 +29,7 @@ params:
   title: Mostafa Khalil
   description: "who?"
   keywords: [Blog, Portfolio, PaperMod]
-  images: ["/images/santorini-ai-generated.png"]
+  images: ["/images/base.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -54,6 +54,7 @@ params:
   homeInfoParams:
     Content: >
      Hi, I'm Mostafa, a software engineer at Google building observability tools for humans and agents alike. You will find me write about distributed systems, software delivery, and math.
+
 
      Thoughts are my own.
   assets:
