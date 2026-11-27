@@ -34,7 +34,7 @@ The Error Budget is the compass that tells the team whether to push more feature
 
 I see slop in the same way. Not all systems (or more generally, areas of work) require 0 slop, and, at the same time, some actually do! Depending on the historical consequences of my actions, I can increase or decrease my due diligence in reviewing AI outputs accordingly.
 
-Remember that the main goal of using AI is to increase overall _productivity_[^3] over a long period of time and across N number of people, with emphasis on both "a long period of time" and "N number of people." For example, if you can file a PR in 1/10th the time today, but it takes 3x more review cycles, causes an incident and a revert, and makes it slower to add features in the future, you have an illusion of productivity, not an actual one.
+Remember that the main goal of using AI is to increase overall _productivity_[^3] over a period of time and across N number of people, with emphasis on both "a period of time" and "N number of people." For example, if you can file a PR in 1/10th the time today, but it takes 3x more review cycles, causes an incident and a revert, and makes it slower to add features in the future, you have an illusion of productivity, not an actual one.
 
 I treat that like a dial. If I'm working on a mission-critical component, or sending a PR to someone who lives in a different timezone (making review cycles more expensive), or if I've recently been getting too many comments from a peer, I will slow down and put in more due diligence.
 
