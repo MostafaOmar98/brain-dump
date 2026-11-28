@@ -53,7 +53,7 @@ params:
   # home-info mode
   homeInfoParams:
     Content: >
-     Hi, I'm Mostafa, a software engineer at Google building observability tools for humans and agents alike. You will find me write about distributed systems, software delivery, and math.
+     Hi, I'm Mostafa, a software engineer at Google building observability tools. You will find me write about distributed systems, software delivery, math, or anything that my mind comes to.
 
 
      Thoughts are my own.
